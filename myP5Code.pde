@@ -8,7 +8,7 @@ setup = function() {
     text("🍽", i, 370)
   }
 
-var favFruits = ["Strawberries","Grapes","Apples"]
+var favFruits = ["Strawberries🍓","Grapes🍇","Apples🍎"]
 
 fill(0,0,0)
 textSize(20)
